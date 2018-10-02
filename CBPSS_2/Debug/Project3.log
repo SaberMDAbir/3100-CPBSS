@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CBPSS_2.cpp
+c:\users\abirc\source\repos\project3\project3\cbpss_2.cpp(45): warning C4551: function call missing argument list
+  Project3.vcxproj -> C:\Users\abirc\source\repos\Project3\Debug\CBPSS_2.exe
